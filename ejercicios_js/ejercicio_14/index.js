@@ -1,2 +1,3 @@
-let countries=['Italy', 'Switzerland', 'Canada', 'France']
-alert [0]
+'use strict'
+let countries=['Italy', 'Switzerland', 'Canada', 'France'];
+alert [0];
